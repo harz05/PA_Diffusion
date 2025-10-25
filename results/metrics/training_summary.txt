@@ -1,0 +1,13 @@
+============================================================
+PA-DIFF TRAINING SUMMARY
+============================================================
+
+Total Iterations: 40000
+Total Epochs: 57
+
+BEST PSNR: 16.0611 dB at iteration 35000
+BEST SSIM: 0.7732 at iteration 35000
+
+Final Training Loss: 0.020230
+Final Val PSNR: 11.8428 dB
+Final Val SSIM: 0.5416

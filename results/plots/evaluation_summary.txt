@@ -1,0 +1,38 @@
+
+======================================================================
+PA-DIFF FINAL EVALUATION REPORT
+======================================================================
+
+MODEL INFORMATION:
+  Checkpoint: I36000_E52_gen.pth
+  Training Iterations: 36,000
+  Training Epochs: 52
+
+DATASET:
+  Name: UIEB Test Set
+  Number of Images: 178
+
+PERFORMANCE METRICS:
+  Average PSNR: 15.2916 ± 2.2143 dB
+  Average SSIM: 0.7609 ± 0.1018
+
+PSNR STATISTICS:
+  Minimum:  8.40 dB
+  25th %:   13.83 dB
+  Median:   15.68 dB
+  75th %:   16.85 dB
+  Maximum:  20.07 dB
+
+SSIM STATISTICS:
+  Minimum:  0.2839
+  25th %:   0.7295
+  Median:   0.7837
+  75th %:   0.8301
+  Maximum:  0.9257
+
+SAVED OUTPUTS:
+  Images: /content/drive/MyDrive/PA-Diff-Training/results/final_evaluation/
+  Plots: /content/drive/MyDrive/PA-Diff-Training/plots/
+  Metrics: /content/drive/MyDrive/PA-Diff-Training/results/final_evaluation/per_image_metrics.csv
+
+======================================================================
